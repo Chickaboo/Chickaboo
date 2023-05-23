@@ -34,7 +34,7 @@ I'm currently expanding my knowledge in the following areas:
 
 Here is something im working on:
 
-- [Web-browser](https://github.com/chickaboo/web-browser): A description of project 1.
+- [Web-browser](https://github.com/chickaboo/web-browser)
 
 Feel free to explore more of my projects on my [GitHub repositories](https://github.com/chickaboo?tab=repositories) page!
 
