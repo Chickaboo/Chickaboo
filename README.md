@@ -31,7 +31,7 @@ I'm currently expanding my knowledge in the following areas:
 
 ## 🚀 My Top Projects
 
-Here is something im working on:
+Here is something i'm working on:
 
 - [Web-browser](https://github.com/chickaboo/web-browser)
 
