@@ -34,7 +34,7 @@ I'm currently expanding my knowledge in the following areas:
 Here is something i'm working on:
 
 - [Web-browser](https://github.com/chickaboo/web-browser)
-- [Iron Grip Ministries website](https://www.IronGripMinistries.org)
+- [Iron Grip Ministries website](www.IronGripMinistries.org)
 
 Feel free to explore more of my projects on my [GitHub repositories](https://github.com/chickaboo?tab=repositories) page!
 
