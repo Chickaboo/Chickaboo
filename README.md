@@ -33,8 +33,8 @@ I'm currently expanding my knowledge in the following areas:
 
 Here is something i'm working on:
 
-- [Web-browser](https://github.com/chickaboo/web-browser)
-- [HiveGraph](https://github.com/Chickaboo/HiveGraphs)
+-[HiveGraphs](https://github.com/Chickaboo/HiveGraphs)
+-[Web-browser](https://github.com/chickaboo/web-browser)
 
 Feel free to explore more of my projects on my [GitHub repositories](https://github.com/chickaboo?tab=repositories) page!
 
