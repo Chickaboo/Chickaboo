@@ -18,8 +18,6 @@ Welcome to my GitHub profile! I'm passionate about coding and love to explore ne
 I'm currently expanding my knowledge in the following areas:
 
 - Machine Learning and Artificial Intelligence
-- Python
-- Web Development with HTML and CSS
 
 ## 📊 GitHub Stats
 
@@ -37,4 +35,7 @@ Here is something i'm working on:
 -[Web-browser](https://github.com/chickaboo/web-browser)
 
 Feel free to explore more of my projects on my [GitHub repositories](https://github.com/chickaboo?tab=repositories) page!
+
+huggingface: [https://huggingface.co/Chickaboo](https://huggingface.co/Chickaboo)
+website: [https://chickaboo.net/](https://chickaboo.net/)
 
