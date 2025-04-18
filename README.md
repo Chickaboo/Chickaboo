@@ -31,7 +31,7 @@ I'm currently expanding my knowledge in the following areas:
 
 Here is something i'm working on:
 
--[HiveGraphs](https://github.com/Chickaboo/HiveGraphs)
+-[Gambit-Paring](https://github.com/Chickaboo/Gambit-Pairing)
 -[Web-browser](https://github.com/chickaboo/web-browser)
 
 Feel free to explore more of my projects on my [GitHub repositories](https://github.com/chickaboo?tab=repositories) page!
