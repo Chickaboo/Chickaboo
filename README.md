@@ -1,8 +1,10 @@
-# Hi there, I'm chickaboo! 👋
+# Welcome — I'm Chickaboo
 
-Welcome to my GitHub profile! I'm passionate about coding and love to explore new technologies. Feel free to browse through my repositories and projects.
+Thanks for visiting my GitHub profile. I'm a developer passionate about building, learning, and exploring new technologies. Feel free to browse my repositories to see what I'm working on.
 
-## 🚀 Technologies and Tools
+---
+
+## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -13,29 +15,38 @@ Welcome to my GitHub profile! I'm passionate about coding and love to explore ne
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🌱 Currently Learning
+---
 
-I'm currently expanding my knowledge in the following areas:
+## Currently Learning
 
-- Machine Learning and Artificial Intelligence
+- Machine Learning & Artificial Intelligence
 
-## 📊 GitHub Stats
+---
+
+## GitHub Stats
 
 ![chickaboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chickaboo&show_icons=true&theme=dracula)
 
-## 🔥 Top Languages
+---
+
+## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chickaboo&layout=compact&theme=dracula)
 
-## 🚀 My Top Projects
+---
 
-Here is something i'm working on:
+## Featured Projects
 
--[Gambit-Paring](https://github.com/Chickaboo/Gambit-Pairing)
--[Web-browser](https://github.com/chickaboo/web-browser)
+A few of the projects I'm currently working on:
 
-Feel free to explore more of my projects on my [GitHub repositories](https://github.com/chickaboo?tab=repositories) page!
+- [Gambit Pairing](https://github.com/Chickaboo/Gambit-Pairing)
+- [Web Browser](https://github.com/chickaboo/web-browser)
 
-huggingface: [https://huggingface.co/Chickaboo](https://huggingface.co/Chickaboo)
-website: [https://chickaboo.net/](https://chickaboo.net/)
+You can find more on my [GitHub repositories page](https://github.com/chickaboo?tab=repositories).
 
+---
+
+## Connect
+
+- Website: [chickaboo.net](https://chickaboo.net/)
+- Hugging Face: [huggingface.co/Chickaboo](https://huggingface.co/Chickaboo)
