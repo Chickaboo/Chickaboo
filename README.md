@@ -1,7 +1,7 @@
 <div align="center">
  
   <!-- High Contrast Header -->
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Chickaboo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20Designer%20researcher&descAlignY=51&descAlign=62&fontColor=ffffff)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Chickaboo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20Designer%20Researcher&descAlignY=51&descAlign=62&fontColor=ffffff)
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=435&lines=Hatch+a+new+experience;Innovating+the+future+through+code;Advancing+Machine+Learning;Designing+Digital+Experiences" alt="Typing SVG" />
