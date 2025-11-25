@@ -1,52 +1,88 @@
-# Welcome — I'm Chickaboo
+<div align="center">
+ 
+  <!-- High Contrast Header -->
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Chickaboo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20Designer%20researcher&descAlignY=51&descAlign=62&fontColor=ffffff)
 
-Thanks for visiting my GitHub profile. I'm a developer passionate about building, learning, and exploring new technologies. Feel free to browse my repositories to see what I'm working on.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=435&lines=Hatch+a+new+experience;Innovating+the+future+through+code;Advancing+Machine+Learning;Designing+Digital+Experiences" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- Socials - Monochrome Style -->
+  <a href="https://chickaboo.net/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=101010" alt="Website"/>
+  </a>
+  <a href="https://huggingface.co/Chickaboo">
+    <img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=101010" alt="Hugging Face"/>
+  </a>
+
+</div>
 
 ---
+
+<div align="center"> 
 
 ## Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!-- Using a cleaner, monochrome/high-contrast badge style where possible or organizing them neatly -->
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<br/>
+
+
+</div>
 
 ---
 
-## Currently Learning
-
-- Machine Learning & Artificial Intelligence
-
----
+<div align="center">
 
 ## GitHub Stats
 
-![chickaboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chickaboo&show_icons=true&theme=dracula)
+<!-- Using 'graywhite' or 'dark' theme for better contrast -->
+<table align="center">
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=chickaboo&show_icons=true&theme=graywhite&hide_border=true" />
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chickaboo&layout=compact&theme=graywhite&hide_border=true" />
+</td>
+</tr>
+</table>
 
----
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chickaboo&theme=graywhite&hide_border=true" alt="Chickaboo's Streak" />
 
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chickaboo&layout=compact&theme=dracula)
+</div>
 
 ---
 
 ## Featured Projects
 
-A few of the projects I'm currently working on:
-
-- [Gambit Pairing](https://github.com/Chickaboo/Gambit-Pairing)
-- [Web Browser](https://github.com/chickaboo/web-browser)
-
-You can find more on my [GitHub repositories page](https://github.com/chickaboo?tab=repositories).
+| Project | Description |
+| :--- | :--- |
+| **[Gambit Pairing](https://github.com/Chickaboo/Gambit-Pairing)** | A sophisticated chess pairing project. |
+| **[Web Browser](https://github.com/chickaboo/web-browser)** | A custom-built web browser. |
 
 ---
 
-## Connect
+<div align="center">
 
-- Website: [chickaboo.net](https://chickaboo.net/)
-- Hugging Face: [huggingface.co/Chickaboo](https://huggingface.co/Chickaboo)
+**Hatch a new experience**
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+</div>
