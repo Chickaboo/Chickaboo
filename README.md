@@ -51,9 +51,6 @@
 <table align="center">
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=chickaboo&show_icons=true&theme=graywhite&hide_border=true" />
-</td>
-<td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chickaboo&layout=compact&theme=graywhite&hide_border=true" />
 </td>
 </tr>
